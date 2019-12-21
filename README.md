@@ -20,7 +20,7 @@
 ![Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/g.jpg)
 ![Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/h.jpg)
 
-<video id="video" controls="" preload="none" poster="" height="360" width="640">
+<video id="video" controls="" preload="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png" poster="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png" height="360" width="640">
       <source id="mp4" src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/BattlefieldCell.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
