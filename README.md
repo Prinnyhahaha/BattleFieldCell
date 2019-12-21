@@ -2,15 +2,24 @@
 一款人体免疫相关的科普教育游戏
 ## 合作开发的独立游戏
 ## 预览
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png" height="180" width="320" />
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/b.gif" height="180" width="320" />
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/c.jpg" height="180" width="320" />
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/d.png" height="180" width="320" />
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/e.jpg" height="140" width="320" />
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/f.jpg" height="140" width="320" />
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/g.jpg" height="140" width="320" />
-<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/h.jpg" height="140" width="320" />
-
+<table>
+<tr>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png" height="180" width="320" /></td>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/b.gif" height="180" width="320" /></td>
+</tr>
+<tr>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/c.jpg" height="180" width="320" /></td>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/d.png" height="180" width="320" /></td>
+</tr>
+<tr>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/e.jpg" height="140" width="320" /></td>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/f.jpg" height="140" width="320" /></td>
+</tr>
+<tr>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/g.jpg" height="140" width="320" /></td>
+<td><img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/h.jpg" height="140" width="320" /></td>
+</tr>
+</table>
 
 <video id="video" controls="" preload="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png" poster="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png" height="360" width="640">
       <source id="mp4" src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/BattlefieldCell.mp4" type="video/mp4">
