@@ -2,6 +2,15 @@
 一款人体免疫相关的科普教育游戏
 ## 合作开发的独立游戏
 ## 预览
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png" height="180" width="320" />
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/b.gif" height="180" width="320" />
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/c.jpg" height="180" width="320" />
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/d.png" height="180" width="320" />
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/e.jpg" height="180" width="320" />
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/f.jpg" height="180" width="320" />
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/g.jpg" height="180" width="320" />
+<img src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/h.jpg" height="180" width="320" />
+
 ![Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png)
 ![Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/b.gif)
 ![Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/c.jpg)
