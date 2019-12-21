@@ -1,7 +1,10 @@
 # 战地细胞 BattleField Cell 
 ## 合作开发的独立游戏
 ## 预览
-
+<video id="video" controls="" preload="none" poster="">
+      <source id="mp4" src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/BattlefieldCell.mp4" type="video/mp4">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+    </video>
 ## 成员
 ### 制作人：
 赤子
