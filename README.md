@@ -1,10 +1,21 @@
 # 战地细胞 BattleField Cell 
+一款人体免疫相关的科普教育游戏
 ## 合作开发的独立游戏
 ## 预览
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/a.png)
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/b.gif)
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/c.jpg)
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/d.png)
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/e.jpg)
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/f.jpg)
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/g.jpg)
+[Image](https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/h.jpg)
+
 <video id="video" controls="" preload="none" poster="">
       <source id="mp4" src="https://battlefieldcell-1251780400.cos.ap-chengdu.myqcloud.com/BattlefieldCell.mp4" type="video/mp4">
       <p>Your user agent does not support the HTML5 Video element.</p>
-    </video>
+</video>
+
 ## 成员
 ### 制作人：
 赤子
